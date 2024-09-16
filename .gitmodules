@@ -1,0 +1,9 @@
+[submodule "ZO.DevModManager"]
+	path = ZO.DevModManager
+	url = https://github.com/ZeeOgre/ZO.DevModManager
+[submodule "ZO.SharedResources"]
+	path = ZO.SharedResources
+	url = https://github.com/ZeeOgre/ZO.SharedResources
+[submodule "ZO.LoadOrderManager"]
+	path = ZO.LoadOrderManager
+	url = https://github.com/ZeeOgre/ZO.LoadOrderManager
